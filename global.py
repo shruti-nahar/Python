@@ -1,3 +1,15 @@
+''''
+INPUT:-
+OUTPUT:-
+1
+10
+inside c1 is 11
+99
+in main 99
+DESCRIPTION:-Implementation of global variable
+DATE:1-09-2021
+AUTHOR NAME:-SHRUTI NAHAR
+'''
 c=1
 def add():
     print(c)
