@@ -11,7 +11,7 @@ output:-
 * *
 
 *
-description:Implementation of global and local variable
+description:Implementation of right reverse star pyramid
 date: 03-09-2021
 Author name: Shruti Nahar'''
 def pattern(n):
