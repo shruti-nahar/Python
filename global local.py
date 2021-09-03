@@ -1,3 +1,14 @@
+'''input:--
+output:-
+a= 10
+b= 20
+c= 30
+d= 20
+b= 20
+c= 30
+description:Implementation of global and local variable
+date: 03-09-2021
+Author name: Shruti Nahar'''
 a=10
 def fun(b):
      c=30
