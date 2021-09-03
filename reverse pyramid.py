@@ -1,4 +1,14 @@
-
+'''input:--
+output:- 
+  * * * * * *  
+   * * * * *
+    * * * *
+     * * *
+      * *
+       *
+description:reverse Star Pyramid 
+date: 3-09-2021
+Author name: Shruti Nahar'''
 def pattern(n):
     k=(2*n)-2
     for i in range(n,-1,-1):
