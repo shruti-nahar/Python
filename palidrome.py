@@ -1,5 +1,5 @@
 '''input:- madam
-output:-Palidrome
+Output:-Palidrome
 Description: Check the string is palidrome or not
 Date: 27-08-2021
 Author name: Shruti Nahar'''
