@@ -9,4 +9,4 @@ def palidrome(num):
         print("Palidrome")
     else:
         print("Not a Palidrome ")
-palidrome("madam")
+palidrome("madam ")
