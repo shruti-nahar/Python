@@ -3,7 +3,7 @@
 output:- perfect number  28
 description:check for perfect 
 date: 11-09-2021
-Author name: Shubham Lodha'''
+Author name: Shruti Nahar'''
 def perfect(l,u):
      for num in range(l,u):
           sum=0
